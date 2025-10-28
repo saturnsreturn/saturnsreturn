@@ -9,6 +9,8 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wj26f6lbrrmnlx7y6n55dqc6ke&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
+  <br>
+  <a href="https://fluffle.cc/opalite">fluffle.cc</a>,, <a href="https://teamgalactic.atabook.org/">atabook</a>,, <a href ="https://commandersaturn.straw.page">strawpage</a>
 </p>
 
 
